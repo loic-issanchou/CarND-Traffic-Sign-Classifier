@@ -1,2 +1,2 @@
 $ cat .gitattributes
-*.ipynb linguist-language=Jupyter Notebook
+*.html linguist-language=Jupyter Notebook
