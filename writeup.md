@@ -1,6 +1,3 @@
-
-
-```python
 # **Traffic Sign Recognition** 
 
 ## Writeup
